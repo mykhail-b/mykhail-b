@@ -2,8 +2,6 @@
 
 # Mykhail Bozhefatov
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mykhailbozhefatov&color=512BD4&style=flat-square)](https://github.com/mykhailbozhefatov)
-
 **Junior .NET Developer** · Wrocław, Poland
 
 </div>
@@ -53,10 +51,10 @@ Currently looking for my first commercial role where I can contribute to a real 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykhailbozhefatov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykhailbozhefatov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mykhail-b&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykhail-b&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykhailbozhefatov&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykhail-b&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
